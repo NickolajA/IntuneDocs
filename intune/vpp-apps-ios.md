@@ -97,7 +97,7 @@ Ensure that when you set up a device for a new Intune user, you configure it wit
 	    > Changing the country will update the apps metadata and store URL on next sync with the Apple service for apps created with this token. The app will not be updated if it does not exist in the new country store.
 
 	- **Type of VPP account** - Choose from **Business** or **Education**.
-	- **Automatic app updates** - Choose from **On** to **Off** to enable automatic updates. When enabled, Intune updates all apps purchased for the specified token through the Intune service when the device checks-in.
+	- **Automatic app updates** - Choose from **On** to **Off** to enable automatic updates. When enabled, Intune updates all apps purchased for the specified token through the Intune service when the device checks-in. **Something seems to be missing here**
 detect the VPP app updates inside the app store and automatically push them to the device when the device checks-in.
 4. When you are done, select **Create**.
 
